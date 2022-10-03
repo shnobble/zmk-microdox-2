@@ -116,7 +116,7 @@
 //             | ALT | CTRL | SPC |   | NUM | NAV | GAME |
                         bindings = <
    &kp Q        &kp W  &kp E     &kp R      &kp T      &kp Y  &kp U  &kp I     &kp O   &kp P
-   &hm1 LGUI A  &kp S  &kp D     &kp F      &kp G      &kp H  &kp J  &kp K     &kp L   &hm1 LGUI SEMI
+   &hm1 LGUI A  &kp S  &kp D     &kp F      &kp G      &kp H  &kp J  &kp K     &kp L   &hm1 LGUI APOS
    &hm LSHFT Z  &kp X  &kp C     &kp V      &kp B      &kp N  &kp M  &kp COMMA &kp DOT &hm LSHFT FSLH
                        &kp LALT  &kp LCTRL  &kp SPACE  &mo 1  &mo 2  &tog 3
                         >;
